@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Sengedorj-123
+- 👋 Hi, I’m @Sengedorj.U
+- 
 - Welcome to my GitHub
 - 
